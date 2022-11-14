@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url("pic.jpg");
+}
+ul>li{
+    color: black;
+    list-style: none;
+    float: right;
+    padding: 20px;
+    font-weight: 1000;
+}
+
+h1{
+    float: left;
+    padding: 15px;
+    color: black;
+    font-weight: 1000;
+    margin-left: 15px;
+}
+ul{
+margin-right: 15px;
+}
+
+.center{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 25px;
+}
